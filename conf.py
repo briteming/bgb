@@ -3,10 +3,10 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/bgb/"
 source_dir = "../src/"
 build_dir = "../dist/"
-index_page_size = 10
+index_page_size = 5
 archives_page_size = 20
 template = {
     "name": "Galileo",
